@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item4"
+        android:title="Google"
+        />
+
+    <item
+        android:id="@+id/item5"
+        android:title="Amazon"
+        />
+
+    <item
+        android:id="@+id/item6"
+        android:title="Youtube"
+        />
+</menu>
